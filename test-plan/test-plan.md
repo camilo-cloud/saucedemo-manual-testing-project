@@ -45,10 +45,10 @@ These modules directly affect the main purchasing flow and core user access.
 - Inventory page
 - Add to cart
 - Cart functionality
-- Logout
+- Checkout
 
 ### Out of Scope
-- Checkout
+- Logout
 - Payment validation
 - API testing
 - Performance testing
