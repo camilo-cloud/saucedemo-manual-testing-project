@@ -23,7 +23,7 @@ The following modules are covered in this project:
 - Inventory page
 - Add to cart
 - Cart page
-- Logout
+- Checkout
 
 Checkout flow is currently out of scope.
 
