@@ -43,7 +43,6 @@ These modules directly affect the main purchasing flow and core user access.
 ### In Scope
 - Login
 - Inventory page
-- Add to cart
 - Cart functionality
 - Checkout
 
