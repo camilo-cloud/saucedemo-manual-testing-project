@@ -21,7 +21,6 @@ https://www.saucedemo.com/
 The following modules are covered in this project:
 - Login
 - Inventory page
-- Add to cart
 - Cart page
 - Checkout
 
