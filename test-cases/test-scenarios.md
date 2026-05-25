@@ -9,7 +9,7 @@ LOGIN
 - Verify that a user cannot log in when the password field is empty
 - Verify that a user cannot log in when both fields are empty
 - Verify that the password field masks typed characters
-- Verify that error messages are displayed correctly after failed login attempts
+
 
 --------------------------------------------------
 
@@ -48,7 +48,7 @@ CHECKOUT
 Checkout Information
 - Verify that checkout cannot continue with empty required fields
 - Verify that users can proceed to checkout overview with valid information
-- Verify that appropriate error messages are displayed for invalid checkout information
+
 
 Checkout Overview
 - Verify that selected products are displayed correctly in the checkout overview
@@ -57,4 +57,3 @@ Checkout Overview
 
 Order Completion
 - Verify that users can complete checkout successfully
-- Verify that a confirmation message is displayed after completing checkout
