@@ -12,7 +12,7 @@ URL: https://www.saucedemo.com/
 ---
 
 ## Main User Flow
-Valid user login → Browse inventory → Add product to cart → Access cart → Logout
+Valid user login → Browse inventory → Add products to cart → Access cart → Complete checkout
 
 ---
 
@@ -50,19 +50,20 @@ These modules directly affect the main purchasing flow and core user access.
 - Logout
 - Payment validation
 - API testing
-- Performance testing
 - Mobile testing
-- Cross-browser testing
+- Advanced performance testing
+- Formal cross-browser compatibility testing
 
 ---
 
 ## Testing Types
 - Functional Testing
 - Smoke Testing
-- Sanity Testing
 - Regression Testing
 - Exploratory Testing
 - Black-box Testing
+- UI Testing
+- Negative Testing
 
 ---
 
@@ -71,9 +72,20 @@ These modules directly affect the main purchasing flow and core user access.
 | Component | Details |
 |---|---|
 | OS | Windows 10 |
-| Browser | Brave |
+| Browser | Brave | Chrome
 | Testing Type | Manual Testing |
-| Tools | Jira, GitHub, Chrome DevTools |
+| Tools | Jira, GitHub|
+
+---
+## Defect Summary
+
+A total of 7 bugs were identified during testing and documented in Jira.
+
+Bug categories identified:
+- Functional issues
+- UI inconsistencies
+- Performance delays
+- Input field defects
 
 ---
 
@@ -81,7 +93,4 @@ These modules directly affect the main purchasing flow and core user access.
 - Test Plan
 - Test Cases
 - Bug Reports
-- Smoke Test Suite
-- Regression Checklist
-- Exploratory Testing Notes
 - Testing Evidence
